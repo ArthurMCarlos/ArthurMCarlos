@@ -20,7 +20,7 @@
 
   <h3 align="left">Connect with me!</h3>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=A4A4A4color:FFF)](www.linkedin.com/in/arthur-carlos-1142242b6)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=A4A4A4color:FFF)](https://www.linkedin.com/in/arthur-carlos-1142242b6/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/arthur_carlos25/)
 
 
