@@ -1,7 +1,7 @@
 ## Hey guys! Arthur here👋
 
-- 🔭 Hoje sou freelancer na área de desenvolvimento de software ...
-- 🌱 Estudando python
+- 🔭 Atualmente trabalhando como desenvolvedor full-stack junior em uma universidade.
+- 🌱 Estudando reactjs 
 - 📫 Para contato arthur.m.carlos25@gmail.com
 - 😄 Pronouns: ele/dele
 
